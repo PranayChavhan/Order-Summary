@@ -20,12 +20,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![brave_glIOICLwV6](https://user-images.githubusercontent.com/85397500/148893352-99a438ce-9180-4fee-b5f7-48af0320cd0a.png)
+![brave_SfWQBPvIjx](https://user-images.githubusercontent.com/85397500/148893354-2c8e2029-1b4f-4374-8f03-f7451d83c29d.png)
+
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://pranaychavhan.github.io/Order-Summary/
 
 ## My process
 
